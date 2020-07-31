@@ -55,4 +55,4 @@
 [youtube]: https://youtube.com/MegaMamba
 [instagram]: https://www.instagram.com/_christyv_8/
 [linkedin]: https://www.linkedin.com/in/christy-varghese/
-[Github-Visitors]: https://komarev.com/ghpvc/?Christy-Varghese=your-github-Christy-Varghese&color=blueviolet&label=VISITORS&style=plastic
+[Github-Visitors]: (https://komarev.com/ghpvc/?Christy-Varghese=your-github-Christy-Varghese&color=blueviolet&label=VISITORS&style=plastic)
