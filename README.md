@@ -16,7 +16,7 @@
 [<img align="left" alt="Christy Varghese | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-----
+
 
 ### Languages and Tools:
 
@@ -32,7 +32,7 @@
 
 <br />
 <br />
----
+
 
 
 ### 📺 Latest YouTube Videos
@@ -44,7 +44,6 @@
 - [Joker Face AR | AR101 Assignment | SparkAR](https://youtu.be/9Kdx4rkPXM0)
 <!-- YOUTUBE:END -->
 <br />
----
 
 
 <img align="left" alt="Christy-Varghese Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christy-Varghese&show_icons=true&hide_border=true" />
