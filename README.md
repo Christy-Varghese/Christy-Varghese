@@ -1,4 +1,5 @@
 ### Hi there, I'm Christy Varghese👋
+![](https://komarev.com/ghpvc/?Christy-Varghese=your-github-Christy-Varghese&color=blueviolet&label=VISITORS&style=plastic)
 
 ## I'm a Youtuber, Student, Game Dev, AR Designer, UI/UX Designer also!
 - 🔭 I’m currently working on a Game Design and Development!
