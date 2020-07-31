@@ -1,7 +1,7 @@
-### Hi there, I'm Christy Varghese👋<a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=Christy-Varghese&color=blueviolet&style=plastic&label=Profile+visits">
+### Hi there, I'm Christy Varghese👋 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=Christy-Varghese&color=blueviolet&style=plastic&label=Profile+visits">
 </a>
 
-## I'm a Youtuber, Student, Game Dev, AR Designer, UI/UX Designer also!
+## I'm a Youtuber, Student, Game Dev, AR Designer & UI/UX Designer also!
 - 🔭 I’m currently working on a Game Design and Development!
 - 🌱 I’m currently learning everything about AI🤖 in Augmented Reality 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -20,19 +20,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="CSharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>]
-[<img align="left" alt="Java" width="26px"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]
-[<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>]
-[<img align="left" alt="PS" width="26px" src="https://img.icons8.com/plasticine/100/000000/adobe-photoshop.png"/>]
-[<img align="left" alt="XD" width="26px" src="https://img.icons8.com/plasticine/100/000000/adobe-xd.png"/>]
-[<img align="left" alt="illustrator" width="26px"src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/>]
+<img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="CSharp" width="34px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+<img align="left" alt="Java" width="34px"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="Unity" width="34px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
+<img align="left" alt="PS" width="34px" src="https://img.icons8.com/plasticine/100/000000/adobe-photoshop.png"/>
+<img align="left" alt="XD" width="34px" src="https://img.icons8.com/plasticine/100/000000/adobe-xd.png"/>
+<img align="left" alt="illustrator" width="34px"src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/>
 
 
 <br />
----
 
 
 ### 📺 Latest YouTube Videos
@@ -44,8 +43,7 @@
 - [Joker Face AR | AR101 Assignment | SparkAR](https://youtu.be/9Kdx4rkPXM0)
 <!-- YOUTUBE:END -->
 
----
-
+<br />
 
 <img align="left" alt="Christy-Varghese Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christy-Varghese&show_icons=true&hide_border=true" />
 
