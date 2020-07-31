@@ -1,21 +1,55 @@
-### Hi there 👋
-- 🔭 AR Designer | UI/UX Designing | Game Designer
-- 💬 Ask me about all the game issues.
-- 👯 Check out games vreated by me its in my Github.
-- 📫 How to reach me:  [Twitter](https://twitter.com/_christyv_8)   [LinkedIn](https://www.linkedin.com/in/christy-varghese/)
+### Hi there, I'm Christy Varghese👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Christy-Varghese&count_private=true&show_icons=true&bg_color=F7F9F9" />
-<!--
-*Christy-Varghese/Christy-Varghese is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+## I'm a Youtuber, Student, Game Dev, AR Designer, UI/UX Designer also!
+- 🔭 I’m currently working on a Game Design and Development!
+- 🌱 I’m currently learning everything about AI🤖 in Augmented Reality 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: LEARN👩‍🎓 more about Games Development, XR- eXtended Reality
+- ⚡ Fun fact: I love to play Basketball🏀 and Valorant🎮.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="christyvarghese.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MegaMamba | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Christy Varghese | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Christy Varghese | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Christy Varghese | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="CSharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>]
+[<img align="left" alt="Java" width="26px"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]
+[<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>]
+[<img align="left" alt="PS" width="26px" src="https://img.icons8.com/plasticine/100/000000/adobe-photoshop.png"/>]
+[<img align="left" alt="XD" width="26px" src="https://img.icons8.com/plasticine/100/000000/adobe-xd.png"/>]
+[<img align="left" alt="illustrator" width="26px"src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/>]
+
+
+<br />
+---
+
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [🤯 പബ്‌ജിയിലെ സൂപ്പർമാൻ മോഡ് !  ( ഹാക്കർ spotted  ഓൺ പബ്‌ജി ലൈറ്റ് ) 😲](https://youtu.be/jDuaMmqp030)
+- [Randomly Matched with friends | PUBG PC Lite | Funny Gameplay](https://youtu.be/NyYRswbbIp4)
+- [- Perfectly Imperfect -](https://youtu.be/tWuxxa6j3yE)
+- [HOW TO MAKE SUPERMAN LASER-BEAM FILTER USING SPARK AR IN JUST 10 MINUTES !!!](https://youtu.be/ydmuwpsjNw0)
+- [Joker Face AR | AR101 Assignment | SparkAR](https://youtu.be/9Kdx4rkPXM0)
+<!-- YOUTUBE:END -->
+
+---
+
+
+<img align="left" alt="Christy-Varghese Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christy-Varghese&show_icons=true&hide_border=true" />
+
+[website]: https://christyvarghese.me/
+[twitter]: https://twitter.com/_christyv_8
+[youtube]: https://youtube.com/MegaMamba
+[instagram]: https://www.instagram.com/_christyv_8/
+[linkedin]: https://www.linkedin.com/in/christy-varghese/
