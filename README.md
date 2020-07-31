@@ -1,5 +1,4 @@
-### Hi there, I'm Christy Varghese👋
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=Christy-Varghese&color=blueviolet&style=plastic&label=Profile+visits">
+### Hi there, I'm Christy Varghese👋<a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=Christy-Varghese&color=blueviolet&style=plastic&label=Profile+visits">
 </a>
 
 ## I'm a Youtuber, Student, Game Dev, AR Designer, UI/UX Designer also!
