@@ -1,5 +1,7 @@
 ### Hi there, I'm Christy Varghese👋
-[Github-Visitors]: 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Christy-Varghese&color=blueviolet&style=plastic&label=Profile+visits">
+</a>
 
 ## I'm a Youtuber, Student, Game Dev, AR Designer, UI/UX Designer also!
 - 🔭 I’m currently working on a Game Design and Development!
@@ -55,4 +57,4 @@
 [youtube]: https://youtube.com/MegaMamba
 [instagram]: https://www.instagram.com/_christyv_8/
 [linkedin]: https://www.linkedin.com/in/christy-varghese/
-[Github-Visitors]: (https://komarev.com/ghpvc/?Christy-Varghese=your-github-Christy-Varghese&color=blueviolet&label=VISITORS&style=plastic)
+
