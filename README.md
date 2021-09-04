@@ -47,7 +47,7 @@
 
 <img align="left" alt="Christy-Varghese Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christy-Varghese&show_icons=true&hide_border=true" />
 
-[website]: https://christyvarghese.me/
+[website]: https://christyvarghese.github.io/
 [twitter]: https://twitter.com/_christyv_8
 [youtube]: https://youtube.com/MegaMamba
 [instagram]: https://www.instagram.com/_christyv_8/
