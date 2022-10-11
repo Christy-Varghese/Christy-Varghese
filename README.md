@@ -3,7 +3,7 @@
 ### Hi there, I'm Christy Varghese👋 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=Christy-Varghese&color=blueviolet&style=plastic&label=Profile+visits">
 </a>
 
-## I'm a working as an AR Developer in ExperientialETC.
+## Meta's SparkAR Playtime Competition Top 100 Winner | AR Enthusiast
 - 🔭 I’m currently working on a SparkAR Studio & Lens Studio
 - 🌱 I’m currently learning everything about AI🤖 in Augmented Reality 🤣
 - 👯 I’m looking to collaborate with other content creators
